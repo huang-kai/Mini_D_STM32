@@ -1,0 +1,9 @@
+HELP.md
+### VS Code ###
+.vscode/
+
+### mac ###
+.DS_Store
+
+### Output ###
+OBJ/*
